@@ -38,6 +38,8 @@ src/
 
 ## 📸 Preview
 
+![Preview](./public/screenshot.png)
+
 This project showcases job cards for companies like:
 
 * Meta – Frontend Engineer
