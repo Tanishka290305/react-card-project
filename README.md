@@ -29,7 +29,7 @@ This project displays multiple job cards with company details, job roles, salary
 
 src/
 ├── components/
-│     └── Card.jsx
+│ └── Card.jsx
 ├── assets/
 ├── App.jsx
 ├── main.jsx
