@@ -38,7 +38,7 @@ src/ <br>
 
 ## 📸 Preview
 
-![Preview](./public/screenshot.png)
+![Preview](public/screenshot.png)
 
 This project showcases job cards for companies like:
 
