@@ -28,11 +28,11 @@ This project displays multiple job cards with company details, job roles, salary
 ## 📂 Project Structure
 
 src/
-├── components/
-│ └── Card.jsx
-├── assets/
-├── App.jsx
-├── main.jsx
+├── components/ <br>
+│ └── Card.jsx <br>
+├── assets/ <br>
+├── App.jsx <br>
+├── main.jsx <br>
 
 ---
 
